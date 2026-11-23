@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <!-- Chunky "R" monogram for Riyazul Islam — solid black on transparent.
+  <!-- Chunky "R" monogram for Riyazul Islam, solid black on transparent.
        Used only as the alpha mask for the LiquidMetal (liquid-logo) shader. -->
   <rect x="38" y="28" width="36" height="144" fill="#000000"/>
   <path d="M74 28 h44 a40 40 0 0 1 0 80 h-44 z" fill="#000000"/>
